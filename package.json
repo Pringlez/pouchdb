@@ -15,5 +15,8 @@
     "database"
   ],
   "author": "Ian McLoughlin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "pouchdb": "^5.0.0"
+  }
 }

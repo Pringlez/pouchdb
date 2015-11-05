@@ -17,6 +17,7 @@
   "author": "Ian McLoughlin",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.3",
     "pouchdb": "^5.0.0"
   }
 }
